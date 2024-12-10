@@ -18,6 +18,10 @@ class FileManagerController extends Controller
         $this->fileManagerService = new $class();
     }
 
+    public function manager()
+    {
+        return view('admin::pages.file_manager.manager');
+    }
     /**
      * 获取文件夹和文件列表
      * @return mixed

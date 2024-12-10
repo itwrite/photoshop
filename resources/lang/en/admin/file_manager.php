@@ -10,6 +10,7 @@
  */
 
 return [
+    'index'                   => 'Files',
     'can_empty'               => 'Can not be empty',
     'click_upload'            => 'Click upload, or drag image here',
     'confirm_delete_file'     => 'Do you want to delete the selected file',

@@ -10,6 +10,7 @@
  */
 
 return [
+    'index'                               => '文件',
     'file_sorting'                        => '文件排序',
     'text_type'                           => '类型',
     'text_created'                        => '创建时间',

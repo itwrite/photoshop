@@ -111,6 +111,13 @@ class Sidebar extends Component
                 'children' => $this->getDesignSubRoutes(),
             ],
             [
+                'route'    => 'file_manager.manager',
+                'title'    => trans('admin/file_manager.index'),
+                'icon'     => 'bi bi-palette',
+                'prefixes' => ['file_manager'],
+                'children' => [],
+            ],
+            [
                 'route'    => 'plugins.index',
                 'title'    => trans('admin/common.plugin'),
                 'icon'     => 'bi bi-shop',

@@ -1,5 +1,5 @@
 
-<img height=70 src="https://beikeshop.com/image/beike.svg" >
+<img height=70 src="https://beikeshop.com/image/beike.svg"  alt=""/>
 
 #  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;一款开源好用的跨境电商系统
 
@@ -12,7 +12,7 @@ BeikeShop是一款基于 Laravel 框架开发的全球领先的开源商城系�
 
 
 <a href="https://beikeshop.com/">
-    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-1.png">
+    <img src="https://raw.githubusercontent.com/beikeshop/beikeshop-resource/refs/heads/master/img/README-1.png" alt="">
 </a>
 
 ### <font>**注意：请保留我公司版权信息，如要移除，需要我公司license授权！**</font>
